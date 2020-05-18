@@ -1,0 +1,13 @@
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.exe
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.deps.json
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.runtimeconfig.json
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.runtimeconfig.dev.json
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.dll
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\bin\Debug\netcoreapp3.1\IndexerDemo.pdb
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.csprojAssemblyReference.cache
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.csproj.CoreCompileInputs.cache
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.AssemblyInfoInputs.cache
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.AssemblyInfo.cs
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.dll
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.pdb
+C:\Users\chuon\source\repos\properties_and_index\IndexerDemo\obj\Debug\netcoreapp3.1\IndexerDemo.genruntimeconfig.cache
